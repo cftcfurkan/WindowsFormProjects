@@ -1,0 +1,11 @@
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\bin\Debug\MCD_WindowsFormInceleme.exe.config
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\bin\Debug\MCD_WindowsFormInceleme.exe
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\bin\Debug\MCD_WindowsFormInceleme.pdb
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.csproj.AssemblyReference.cache
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.Form1.resources
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.MerhabaForm.resources
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.Properties.Resources.resources
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.csproj.GenerateResource.cache
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.csproj.CoreCompileInputs.cache
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.exe
+C:\Users\103AKSAM_FURKAN\Desktop\MCD_WindowsFormInceleme-master\MCD_WindowsFormInceleme\obj\Debug\MCD_WindowsFormInceleme.pdb
